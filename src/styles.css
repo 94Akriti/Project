@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.center {
+  display: block;
+  border-style: outset;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: aqua;
+  padding: 5px;
+}
+h1:hover {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+a:link,
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  cursor: all;
+  color: lime;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+}
+span.clg {
+  color: brown !important;
+}
+p {
+  color: purple;
+  font-size: 1em;
+  width: 500px;
+  text-align: left;
+  font-family: Comic Sans MS;
+}
+h5 {
+  font-family: Segoe Script;
+}
+.bodystyle {
+  color: orange;
+  background-color: black;
+  /*background:url("PING THUMBNAIL.jpg");
+  	    background-repeat:no-repeat;
+  	    background-size:cover;
+
+  	    background-blend-mode:soft-light;
+  	    background-position:center;*/
+}
